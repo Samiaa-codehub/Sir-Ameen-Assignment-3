@@ -1,0 +1,33 @@
+body{
+    background-color:bisque;
+}
+h1{
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+.container{
+    display: flex;
+    gap:10px
+}
+.image{
+    box-shadow: 5px 5px 5px;
+    border: 2px solid black;
+    border-radius: 8px;
+
+}
+.cake{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+.price{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+.description{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+button{
+    background-color: rgb(189, 236, 150);
+}
